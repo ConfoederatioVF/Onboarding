@@ -16,7 +16,7 @@ Confoederatio also builds the software and mapping ecosystems needed to reconstr
 
 All our data is accessible via [Dataview](https://dataview.confoederatio.org/). Here are just some of our projects:
 
-- Borders: [Atlas] | Cities: [Stadestér](https://github.com/ConfoederatioVF/Stadester) | Economics: [Eoscala](https://github.com/ConfoederatioVF/EoscalaVelkscala) | Population: [Velkscala](https://github.com/ConfoederatioVF/EoscalaVelkscala)
+- Borders: [Atlas](https://github.com/ConfoederatioVF/Atlas) | Cities: [Stadestér](https://github.com/ConfoederatioVF/Stadester) | Economics: [Eoscala](https://github.com/ConfoederatioVF/EoscalaVelkscala) | Population: [Velkscala](https://github.com/ConfoederatioVF/EoscalaVelkscala)
 - Frameworks: [Collation](https://github.com/ConfoederatioVF/Collation) | [Vercengen](https://github.com/ConfoederatioVF/Vercengen) | ML: [Harbinger](https://github.com/ConfoederatioVF/Harbinger)
 - GIS: [Naissance](https://github.com/ConfoederatioVF/Naissance)
 - Software: [Dataview](https://github.com/ConfoederatioVF/Dataview) | [Unitel OS](https://unitel.confoederatio.org/)
