@@ -1,4 +1,13 @@
 # Onboarding
+
+<table>
+  <tr>
+    <td><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed7e423b-df53-451c-b9df-dbfa4aa7e1de" /></td>
+    <td><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e33eb77-8da5-4a57-a3f1-6a2b33b5a7eb" /></td>
+  </tr>
+</table>
+<div align = "center"><i>Let's skip the fluff.</i></div>
+
 ## What is Confoederatio?
 
 We're a group of researchers focused on a socioeconomic model of Earth from 10000BC to Now. As such, we work to supply both historic and real-time data at the most granular of levels for the entire globe.
