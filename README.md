@@ -27,14 +27,19 @@ All our data is accessible via [Dataview](https://dataview.confoederatio.org/). 
 2. Learn how to code. Learn [systems thinking](https://en.wikipedia.org/wiki/Systems_thinking).
 3. Let us know [what you’re good at](https://forms.gle/RYfKbGJQLbJGY9kt7).
 
-If you do not feel this is worth your time, leave. Otherwise, this repository also contains various Markdown files to help you and your agents get up to speed.
+This repository also contains various Markdown files to help you and your agents get up to speed.
 
 <details>
-  <summary><b>AI Policy.</b></summary>
-  <br>
+  <summary><b>AI Policy.</b></summary><br>
   
   - Use AI for: data entry/scraping, API contracts, testing and validation, data visualisation.
   - Do NOT use AI for: frontend design/writing, systems architecture. User-facing apps and systems must have a human face.
   - We're open source. Therefore, we treat everything here as public. Security is **on you**.
 
+</details>
+<details>
+  <summary><b>Complaints.</b></summary><br>
+
+Help us help you. We respond to specific and resolvable complaints only. Otherwise, feel free to leave.
+  
 </details>
