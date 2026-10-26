@@ -31,6 +31,10 @@ This repository also contains various Markdown files to help you and your agents
 
 <details>
   <summary><b>AI Policy.</b></summary><br>
+
+As a form of auto-complete, we believe AI works best when the user can't see it. Anything facing the end client should be human written and configured.
+
+Agents are inherently misaligned, as vendors have a tendency to fuzz requests using magic numbers, incomplete execution, and heuristics to save on cost. Contributing programmers are responsible for both steering them and reading the code they propose to ensure they follow overarching architectural decisions and contract guidelines. Guidelines are to be placed in the `./agents/` folder.
   
   - Use AI for: data entry/scraping, API contracts, testing and validation, data visualisation.
   - Do NOT use AI for: frontend design/writing, systems architecture. User-facing apps and systems must have a human face.
